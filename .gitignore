@@ -1,0 +1,6 @@
+/models/
+/augmented_images/
+/train_thumbnails/
+/train_thumbnails_corrupt/
+/train_tiled_thumbnail_images/
+/*.zip
